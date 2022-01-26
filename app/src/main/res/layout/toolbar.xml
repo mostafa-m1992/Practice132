@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layoutDirection="rtl">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/toolbar"
+        android:background="@color/colorPrimary">
+
+        <LinearLayout
+            android:layoutDirection="rtl"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:gravity="center_vertical"
+                android:layout_weight="0.5"
+                android:layout_width="0dp"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:src="@drawable/ic_dehaze_black_24dp"
+                    android:layout_width="34dp"
+                    android:layout_height="34dp"
+                    app:tint="@color/light"
+                    android:id="@+id/imageNav"/>
+
+                <TextView
+                    android:textStyle="bold"
+                    android:textColor="@color/light"
+                    android:text="digikala"
+                    android:textSize="20sp"
+                    android:layout_marginRight="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:gravity="center_vertical|left"
+                android:orientation="horizontal"
+                android:layout_weight="0.5"
+                android:layout_width="0dp"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:layout_marginLeft="15dp"
+                    android:src="@drawable/ic_search_black_24dp"
+                    android:layout_width="28dp"
+                    android:layout_height="28dp"
+                    app:tint="@color/light" />
+
+                <ImageView
+                    android:layout_marginLeft="15dp"
+                    android:src="@drawable/ic_shopping_cart_black_24dp"
+                    android:layout_width="28dp"
+                    android:layout_height="28dp"
+                    app:tint="@color/light" />
+
+                <ImageView
+                    android:layout_marginLeft="15dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_width="34dp"
+                    android:layout_height="34dp"
+                    app:tint="@color/light"
+                    android:id="@+id/loginIconToolbar"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.appcompat.widget.Toolbar>
+
+</LinearLayout>

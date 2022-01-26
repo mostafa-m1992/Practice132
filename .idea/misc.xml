@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Practice130/app/src/main/res/layout/activity_main.xml" value="0.11277173913043478" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/drawable/btnedit.xml" value="0.1712962962962963" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/drawable/btnexit.xml" value="0.1712962962962963" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/drawable/btnfav.xml" value="0.1712962962962963" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/drawable/ic_arrow_forward_black_24dp.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/drawable/ic_dehaze_black_24dp.xml" value="0.16574074074074074" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/drawable/ic_edit_black_24dp.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.10740740740740741" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/drawable/ic_toc_black_24dp.xml" value="0.2171875" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/activity.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/activity_category.xml" value="0.20104166666666667" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/activity_main.xml" value="0.14893617021276595" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/fragment_a.xml" value="0.20104166666666667" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/fragment_b.xml" value="0.20104166666666667" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/fragment_c.xml" value="0.20104166666666667" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/fragment_d.xml" value="0.12364130434782608" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/fragment_slide.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/layoutcategory.xml" value="0.10733695652173914" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/navigation.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/recycler_free.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/recycler_only.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/recycler_sales.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/recycler_visit.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Practice132/app/src/main/res/layout/toolbar2.xml" value="0.22" />
+        <entry key="..\:/mySelf/Android/android learning Projects/Practice132/app/src/main/res/layout/activity.xml" value="0.10092592592592593" />
+        <entry key="..\:/mySelf/Android/android learning Projects/Practice132/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/mySelf/Android/android learning Projects/Practice132/app/src/main/res/layout/navigation.xml" value="0.10092592592592593" />
+        <entry key="..\:/mySelf/Android/android learning Projects/Practice132/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/mySelf/Android/android learning Projects/Practice132/app/src/main/res/layout/toolbar2.xml" value="0.15534420289855072" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
